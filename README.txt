@@ -1,6 +1,6 @@
 =================================================================================
 
- SLUGGER: SLUGGER: Lossless Hierarchical Summarization of Massive Graphs
+ SLUGGER: Lossless Hierarchical Summarization of Massive Graphs
  Authors: Kyuhan Lee*, Jihoon Ko*, and Kijung Shin
 
  Version: 1.0
