@@ -7,16 +7,16 @@ Source code for the paper [SLUGGER: Lossless Hierarchical Summarization of Massi
 * *Scalable*: scaling linear with the number of edges in the input graph.
 
 ## Building and Running **SLUGGER**
-Please see [User Guide](user_guide.pdf)
+Please see [User Guide](user_guide.pdf).
 
 ## Running Demo
-For demo, please type 'make'
+For demo, please type 'make.'
 
 ## Datasets and Contributors
-The datasets used in the paper and authors information are listed [here](http://dmlab.kaist.ac.kr/slugger/)
+The datasets used in the paper are provided [here](http://dmlab.kaist.ac.kr/slugger/).
 
 ## Terms and Conditions
-If you use this code as part of any published research, please acknowledge our ICDE 2022 paper.
+If you use this code as a part of any published research, please acknowledge our ICDE 2022 paper.
 
 ## Contact Information
 If you have any questions, please contact [Kyuhan Lee](https://kyuhanlee.github.io/).
