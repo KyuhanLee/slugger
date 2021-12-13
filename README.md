@@ -1,5 +1,5 @@
 # SLUGGER: Lossless Hierarchical Summarization of Massive Graphs
-Source code for the paper [SLUGGER: Lossless Hierarchical Summarization of Massive Graphs](https://arxiv.org/abs/2006.01060), Kyuhan Lee*, Jihoon Ko*, and Kijung Shin, ICDE 2022.
+Source code for the paper [SLUGGER: Lossless Hierarchical Summarization of Massive Graphs](https://arxiv.org/abs/2112.05374), Kyuhan Lee*, Jihoon Ko*, and Kijung Shin, ICDE 2022.
 
 **SLUGGER** (**S**calable **L**ossless S**u**mmarization of **G**raphs with Hi**er**archy) is a lossless hierarchical graph summarization algorithm that has the following superiorities:
 * *Effective*: yielding up to 29.6% more concise summaries than its state-of-the-art competitors.
